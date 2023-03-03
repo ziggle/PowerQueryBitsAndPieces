@@ -1,0 +1,6 @@
+Fiscal Qtr
+="Q"&CEILING(MONTH(EDATE(date,-3)),3)/3
+
+
+Fiscal Year
+=IF(MONTH(date)>3,YEAR(date)&"-"&YEAR(date)+1,YEAR(date)-1&"-"&YEAR(date))
