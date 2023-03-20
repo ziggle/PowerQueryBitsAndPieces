@@ -8,6 +8,8 @@
 
 # Narvik Ship Losses
 
+Narvik was the key shipping point for Swedish iron ore to Germany during WW2. Narvik was both the end point of a rail line and and ice-free port. 
+
 ## Abstract
 
 ### Background
